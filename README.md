@@ -11,3 +11,4 @@
 - Xamarin forms
   - [*Xamarin Forms Build Native Mobile Apps with C#*](https://drive.google.com/drive/folders/17mMLgDIpPyMDGee0vEA5Wjpbdo-h1nof?usp=sharing)
   - [*Tài liệu xamarin forms: What is Xamarin.Forms?*](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin-forms)
+  - [*Ví dụ*](https://github.com/LyVanBong/B.Official.Training)
