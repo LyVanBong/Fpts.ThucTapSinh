@@ -1,4 +1,4 @@
-# Fpts Thực Tập
+# Fpts: Thực Tập
 ## Tài liêu thực tập
 
 - C# (Bạn nào đã biết C# trước có thể bỏ qua bước này)
