@@ -9,7 +9,7 @@
     - [*Slides*](https://drive.google.com/drive/folders/1PVTJWsjdoDXGbMNHPX7WPdbyuxUwZCGG?usp=sharing)
     - [*Labguides*](https://drive.google.com/drive/folders/1x4Y27bPjT1m67QYW9wZa2wKT1Iz_UuT9?usp=sharing)
 - Xamarin forms
-  - [*Xamarin Forms Build Native Mobile Apps with C#*](https://drive.google.com/drive/folders/17mMLgDIpPyMDGee0vEA5Wjpbdo-h1nof?usp=sharing)
+  - [*Video: Xamarin Forms Build Native Mobile Apps with C#*](https://drive.google.com/drive/folders/17mMLgDIpPyMDGee0vEA5Wjpbdo-h1nof?usp=sharing)
   - [*Tài liệu xamarin forms: What is Xamarin.Forms?*](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin-forms)
   - [*Ví dụ*](https://github.com/LyVanBong/B.Official.Training)
   - [*Video youtube*](https://www.youtube.com/channel/UC04R8Dv2-78db0t-J2PmkSA/featured)
